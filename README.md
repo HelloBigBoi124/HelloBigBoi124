@@ -21,6 +21,12 @@
 <!--    <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <!--   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:heitorcarnielo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/heitor-carnielo-janko-873bb1348/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/heitor-carnielo-janko-873bb1348/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<blockquote>
+> I'm a 19-year-old student with a big passion for technology and creating cool, innovative projects. I've always been super into games—not just playing them, but figuring out how they’re made and all the behind-the-scenes magic that brings them to life. On top of that, technology in general has always fascinated me. It’s what led me to dive into this world and keep pushing to learn and improve.
+> Right now, I’m in my second year (third semester) at **UNIP - Universidade Paulista**, where I’m focused on sharpening my skills and discovering new things.
+> I already have a solid base in programming languages like **HTML, CSS, JavaScript, Python, and Java (basic)**. I also know my way around **MySQL, Bootstrap and ReactJS**. I love digging into new tools and techniques to keep growing in tech and programming.
+> I’ve got experience with tools like **Trello** and **Jira** for organizing and managing projects, plus Microsoft classics like **Word, Excel, and PowerPoint**. Oh, and I’m great with **Canva** for creating awesome visual presentations. 
+> The goal? To keep improving, turn my ideas into reality, and work on projects that really stand out.
+</blockquote>
