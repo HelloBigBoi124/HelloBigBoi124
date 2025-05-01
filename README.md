@@ -32,7 +32,7 @@
 ## 🙋‍♂️ **About Me**
 > I'm a Fullstack Developer with a big passion for technology and creating innovative projects. I’ve always been fascinated by games—not just playing them, but uncovering the behind-the-scenes magic that brings them to life. This curiosity about technology inspired my journey into development and keeps me motivated to learn and grow.
 
-I’m currently in my second year (third semester) at **UNIP - Universidade Paulista**, where I'm focused on sharpening my skills and exploring new concepts.
+> I’m currently in my second year (third semester) at **UNIP - Universidade Paulista**, where I'm focused on sharpening my skills and exploring new concepts.
 
 ### 🔧 **My Skills Include**
 - **Frontend Development**: HTML, CSS, JavaScript, Bootstrap, and ReactJS.
