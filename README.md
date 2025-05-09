@@ -8,7 +8,8 @@
 ## 💻 **Languages and Tools I've Learned**
 <p align="left">
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,tailwind,nodejs,github,postgres,python,mysql,bootstrap,java,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,tailwind,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=github,postgres,python,mysql,bootstrap,java,pycharm,firebase" />
 </a>
 
 ---
