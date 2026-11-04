@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F3EBFF&height=200&section=header&text=Heitor%20Janko&fontSize=64&fontColor=4B2A8C&desc=front-end%20%E2%80%A2%20full-stack%20%E2%80%A2%20cs%20student&descSize=22&descAlignY=74&fontAlignY=42" alt="Heitor Janko" width="100%">
 </picture>
 
-<h3><i>building clean interfaces, one commit at a time. 💜</i></h3>
+<h3><i>building clean interfaces, one commit at a time.</i></h3>
 
 <a href="https://hellobigboi124.github.io/Portfolio-heitor/"><img height="34" src="https://img.shields.io/badge/portfolio-heitor-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=F3EBFF&labelColor=1E1033"></a>
 <a href="https://www.linkedin.com/in/heitorcjanko/"><img height="34" src="https://img.shields.io/badge/linkedin-Heitor%20Janko-6D28D9?style=for-the-badge&logo=linkedin&logoColor=F3EBFF&labelColor=1E1033"></a>
@@ -19,18 +19,18 @@
 
 ## `void heitor() {`
 
-- 💻 Desenvolvedor **Front-End / Full-Stack** em formação — 6º período de **Ciência da Computação** na **UNIP**.
-- ⚛️ Foco atual: **React** e interfaces responsivas com **Tailwind CSS**; estudando **TypeScript**.
-- 🗄️ Back-end com **Java** e **Python**; bancos **MySQL**, **PostgreSQL** e **SQL Server**.
-- 🤝 Aberto a **vagas júnior** (remoto, híbrido ou presencial em Goiânia), freelas e colaborações.
+- Desenvolvedor **Front-End / Full-Stack** em formação — 6º período de **Ciência da Computação** na **UNIP**.
+- Foco atual: **React** e interfaces responsivas com **Tailwind CSS**; estudando **TypeScript**.
+- Back-end com **Java** e **Python**; bancos **MySQL**, **PostgreSQL** e **SQL Server**.
+- Aberto a **vagas júnior** (remoto, híbrido ou presencial em Goiânia), freelas e colaborações.
 
 ## `}`
 
-> 🇺🇸 **EN:** Front-End / Full-Stack developer, 6th semester of Computer Science at UNIP. Working with React and Tailwind CSS on the front end (studying TypeScript), Java and Python on the back end. Open to junior roles (remote, hybrid or on-site in Goiânia), freelance and collaboration.
+> **EN:** Front-End / Full-Stack developer, 6th semester of Computer Science at UNIP. Working with React and Tailwind CSS on the front end (studying TypeScript), Java and Python on the back end. Open to junior roles (remote, hybrid or on-site in Goiânia), freelance and collaboration.
 
 <br>
 
-## 🧰 Stack
+## Stack
 
 <p>
 <img height="34" src="https://img.shields.io/badge/JavaScript-D9C2FF?style=for-the-badge&logo=javascript&logoColor=4B2A8C">
@@ -52,7 +52,7 @@
 
 <br>
 
-## 📂 Projetos
+## Projetos
 
 <table>
 <tr>
@@ -76,7 +76,7 @@
 <br>
 
 <div align="center">
-<h4>feito por Heitor Janko · 💜</h4>
+<h4>feito por Heitor Janko</h4>
 </div>
 
 ---
