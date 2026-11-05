@@ -17,7 +17,11 @@
 
 <br>
 
+<img src="./assets/matrix.svg" alt="SQL · React · Tailwind · Java · Python" width="100%">
+
 ## `void heitor() {`
+
+<img src="./assets/whoami.svg" alt="whoami.c — Heitor Carnielo Janko, Front-End e Full-Stack, Ciência da Computação na UNIP" width="100%">
 
 - Desenvolvedor **Front-End / Full-Stack** em formação — 6º período de **Ciência da Computação** na **UNIP**.
 - Foco atual: **React** e interfaces responsivas com **Tailwind CSS**; estudando **TypeScript**.
@@ -57,7 +61,7 @@
 <table>
 <tr>
 <td width="38%"><h3><a href="https://github.com/HelloBigBoi124/Wii-Portfolio">Wii-Portfolio</a></h3><code>web</code> <code>JavaScript</code> <code>Vercel</code></td>
-<td>Portfólio interativo inspirado na interface do Wii. <a href="https://wii-portfolio-three.vercel.app">Ver online</a>.</td>
+<td>Portfólio interativo inspirado na interface do Wii. <a href="https://heitor-wii-portfolio.vercel.app">Ver online</a>.</td>
 </tr>
 <tr>
 <td width="38%"><h3><a href="https://github.com/HelloBigBoi124/Zeroducci-Store">Zeroducci-Store</a></h3><code>HTML</code> <code>Tailwind</code> <code>JS</code></td>
@@ -79,4 +83,3 @@
 <h4>feito por Heitor Janko</h4>
 </div>
 
----
