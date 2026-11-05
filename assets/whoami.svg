@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="372" viewBox="0 0 900 372" role="img" aria-label="whoami.c — Heitor Carnielo Janko, Front-End e Full-Stack, CS @ UNIP">
+<style>
+:root{--bg:#F3EBFF;--bar:#E3D2FF;--bd:#C9AEF5;--fg:#3B2270;--k:#6D28D9;--s:#9333EA;--t:#4B2A8C;--m:#8A74B8;--p:#3B2270}
+@media (prefers-color-scheme:dark){:root{--bg:#1E1033;--bar:#2A1850;--bd:#3F2878;--fg:#E8DAFF;--k:#A78BFA;--s:#D9C2FF;--t:#C4A8FF;--m:#8F7BC0;--p:#E8DAFF}}
+.bg{fill:var(--bg);stroke:var(--bd)} .bar{fill:var(--bar)} .x{font:15px ui-monospace,Consolas,monospace;fill:var(--p);white-space:pre}
+.k{fill:var(--k)} .s{fill:var(--s)} .t{fill:var(--t);font-weight:700} .m{fill:var(--m)} .p{fill:var(--p)} .ttl{font:13px ui-monospace,Consolas,monospace;fill:var(--m)}
+</style>
+<defs><clipPath id="w"><rect width="900" height="372" rx="12"/></clipPath></defs>
+<rect class="bg" x="0.5" y="0.5" width="899" height="371" rx="12"/>
+<g clip-path="url(#w)"><rect class="bar" width="900" height="38"/></g>
+<circle cx="24" cy="19" r="6" fill="#8B5CF6"/><circle cx="46" cy="19" r="6" fill="#A78BFA"/><circle cx="68" cy="19" r="6" fill="#C4B5FD"/>
+<text class="ttl" x="450" y="24" text-anchor="middle">~/heitor/whoami.c</text>
+<text x="28" y="82" class="x" opacity="0" xml:space="preserve"><tspan class="k">#include </tspan><tspan class="s">&lt;career.h&gt;</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.00s" fill="freeze"/></text>
+<text x="28" y="122" class="x" opacity="0" xml:space="preserve"><tspan class="k">struct </tspan><tspan class="t">Dev </tspan><tspan class="p">heitor = {</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.45s" fill="freeze"/></text>
+<text x="28" y="148" class="x" opacity="0" xml:space="preserve"><tspan class="p">  .name   = </tspan><tspan class="s">"Heitor Carnielo Janko"</tspan><tspan class="p">,</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.90s" fill="freeze"/></text>
+<text x="28" y="174" class="x" opacity="0" xml:space="preserve"><tspan class="p">  .role   = </tspan><tspan class="s">"Front-End &amp; Full-Stack Developer"</tspan><tspan class="p">,</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.35s" fill="freeze"/></text>
+<text x="28" y="200" class="x" opacity="0" xml:space="preserve"><tspan class="p">  .school = </tspan><tspan class="s">"Ciência da Computação @ UNIP (6º período)"</tspan><tspan class="p">,</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.80s" fill="freeze"/></text>
+<text x="28" y="226" class="x" opacity="0" xml:space="preserve"><tspan class="p">  .base   = </tspan><tspan class="s">"Goiânia, GO — Brasil"</tspan><tspan class="p">,</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.25s" fill="freeze"/></text>
+<text x="28" y="252" class="x" opacity="0" xml:space="preserve"><tspan class="p">  .stack  = </tspan><tspan class="s">{"React", "JavaScript", "Tailwind", "Java", "Python", "SQL"}</tspan><tspan class="p">,</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.70s" fill="freeze"/></text>
+<text x="28" y="278" class="x" opacity="0" xml:space="preserve"><tspan class="p">  .status = </tspan><tspan class="t">OPEN_TO_WORK</tspan><tspan class="p">,  </tspan><tspan class="m">// vagas júnior · remoto, híbrido ou Goiânia</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="3.15s" fill="freeze"/></text>
+<text x="28" y="304" class="x" opacity="0" xml:space="preserve"><tspan class="p">};</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="3.60s" fill="freeze"/></text>
+<text x="28" y="338" class="x" opacity="0" xml:space="preserve"><tspan class="k">$ </tspan><tspan class="p">./contratar_heitor</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4.05s" fill="freeze"/></text>
+<rect x="196" y="324" width="9" height="18" fill="#8B5CF6" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.5;0.51" dur="1s" begin="4.25s" repeatCount="indefinite"/></rect>
+</svg>
